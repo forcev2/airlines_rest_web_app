@@ -1,4 +1,4 @@
-# airlines_rest_web_app
+# Piotr Bajda Java Spring web app
 airlines_app
 
 This is a Java Spring Web application. 
