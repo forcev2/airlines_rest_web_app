@@ -1,0 +1,37 @@
+[
+  {
+    "flightId": 0,
+    "flightNumber": 9295,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2019-11-21T01:22:56 -01:00"
+  },
+  {
+    "flightId": 1,
+    "flightNumber": 9223,
+    "departureAirportIATACode": "ANC",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2019-09-14T03:37:40 -02:00"
+  },
+  {
+    "flightId": 2,
+    "flightNumber": 9239,
+    "departureAirportIATACode": "LAX",
+    "arrivalAirportIATACode": "KRK",
+    "departureDate": "2020-11-29T01:29:00 -01:00"
+  },
+  {
+    "flightId": 3,
+    "flightNumber": 3375,
+    "departureAirportIATACode": "LAX",
+    "arrivalAirportIATACode": "KRK",
+    "departureDate": "2017-11-28T09:51:33 -01:00"
+  },
+  {
+    "flightId": 4,
+    "flightNumber": 7604,
+    "departureAirportIATACode": "YYZ",
+    "arrivalAirportIATACode": "PPX",
+    "departureDate": "2017-08-29T05:01:38 -02:00"
+  }
+]
